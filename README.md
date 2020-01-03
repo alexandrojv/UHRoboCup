@@ -8,6 +8,7 @@ Please commit any changes you make to the source code and commit any notes or di
 Always keep your 'local' repository up-to-date !<br>
 <br>
 The collaborators for this repository are:<br>
+- Alex<br>
 - Kevin<br>
 - Muhammad<br>
 - Tobin<br>
